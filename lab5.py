@@ -5,7 +5,7 @@ import os
 import time
 
 #Tomando o ID e a porta dos n processos
-id = input("Informe o ID referente a sua aplicação (1 ate n)")
+id = input("Informe o ID referente a sua aplicação (1 ate 4)\n")
 id = int(id)
 porta = 5000 + id
 
